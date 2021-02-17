@@ -35,3 +35,10 @@ body {
 #container h1 {
     font-size: 40px;
 }
+#footer{
+	background: #333;
+	color: #fff;
+	text-align: center;
+	padding: 1em;
+}
+
