@@ -5,17 +5,23 @@ body {
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background: #1e1f24;
 }
 
 #cabecera {
-    text-align: left;
-    font-size: 20px;
-    background: #33a;
+    background: #37488b;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, .8);
     color: #fff;
     font-weight: bold;
+    font-size: 20px;
     margin: 0;
     padding: 1rem;
+    text-align: left;
+}
+
+#cabecera #logo {
+    width: 50px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline {
@@ -34,4 +40,9 @@ body {
 
 #container h1 {
     font-size: 40px;
+}
+
+#post {
+    background: #fff;
+    padding: 1em;
 }
