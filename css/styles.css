@@ -46,3 +46,10 @@ body {
     background: #fff;
     padding: 1em;
 }
+
+#footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
